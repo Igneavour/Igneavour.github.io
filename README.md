@@ -1,2 +1,2 @@
 # Japanese Cultural Club website
-An individual school web development project
+An individual school web development project!
