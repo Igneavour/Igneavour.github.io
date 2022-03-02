@@ -1,3 +1,3 @@
 # Japanese Cultural Club website
-An individual school web development project!
+An individual web development project!
 Link: https://igneavour.github.io
